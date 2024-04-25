@@ -1,5 +1,7 @@
 package ClonadorPersona;
-
+/*
+ * Clase clonador
+ */
 public class Clonador {
 	private String clonadorPersona;
 
